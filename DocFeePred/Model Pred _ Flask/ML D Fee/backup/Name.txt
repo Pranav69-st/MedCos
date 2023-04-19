@@ -1,0 +1,17 @@
+Medcos: Your Medical Cost Estimator
+
+
+Dark green: #006400 or #004d00
+
+Medium green: #2e8b57 or #228b22
+
+Light green: #90ee90 or #8fbc8f
+
+Complementary colors:
+
+Blue: #0077c2 or #0066cc
+Gray: #666666 or #808080
+White: #ffffff
+Black: #000000
+
+
